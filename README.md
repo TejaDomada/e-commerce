@@ -1,3 +1,3 @@
 # e-commerce
-Web project 
+#index page
 firts.html is the main html code
