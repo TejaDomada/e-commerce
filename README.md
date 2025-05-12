@@ -13,8 +13,6 @@ Project Structure
 
 Contributing
 
-License
-
 Contact
 
 ✨ Features
@@ -31,10 +29,8 @@ Responsive Design: Optimized for various devices and screen sizes.
 🛠️ Tech Stack
 Frontend: HTML, CSS, JavaScript
 
-Backend: Node.js, Express.js
+Backend: java
 
-Database: MongoDB
-
-Authentication: JSON Web Tokens (JWT)
+Database: mysql
 
 Version Control: Git, GitHub
